@@ -1,0 +1,4 @@
+# Welcome {.unnumbered}
+
+This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change. 
+

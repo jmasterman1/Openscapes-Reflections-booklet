@@ -1,0 +1,75 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: Openscapes Reflections
+  subtitle: Open Booklet for the Reflections Program
+  output-file: "QmdReport"
+  downloads: [pdf, docx]
+  
+  page-navigation: true
+  site-url: "https://openscapes.github.io/reflections"
+  repo-url: https://github.com/openscapes/reflections
+  repo-actions: [edit, source, issue]
+  search: true
+  
+  # tools: 
+  #   - icon: globe
+  #     href: https://openscapes.org
+  #     text: "Openscapes.org"
+  #   - icon: github
+  #     href: https://github.com/openscapes/reflections
+  #     text: "Openscapes Series GitHub"
+  #   - icon: twitter
+  #     href: https://twitter.com/openscapes
+  #     text: "Openscapes Twitter"  
+  
+  sidebar:
+    background: "#f0c2a3"
+    logo: "images/openscapes_hex.png"
+    pinned: true
+    align: center
+    
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Openscapes, 2023"
+    background: "#f0c2a3"
+
+  chapters:
+    - href: "index.qmd"
+      text: Welcome
+    - href: "reflections.qmd"
+      text: Reflections
+    - href: "imagine.qmd"
+      text: Imagine
+    - href: "goals.qmd"
+      text: Goal-setting
+    - closing.qmd  
+      
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+  pdf:
+    documentclass: scrbook
+    classoption: ["oneside", "open=any"]
+    template-partials: ["partials/before-body.tex"]
+    toc: true
+    toc-depth: 2
+    lof: true
+    lot: true
+    include-in-header: 
+      - partials/inheader1.tex
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Openscapes Reflections",
+    "section": "",
+    "text": "Adapted from The Turing Way\nOpenscapes makes all of their materials publicly available under open source licenses.\nThe process documents and data are made available under a CC-BY license. Software are made available under an MIT license.\nThe license text listed below (describing both CC-BY and MIT licenses as well as their usage in Openscapes) is re-used under a CC-BY license from The Carpentries community materials. (Specifically from the Reproducible Science Curriculum).\n\n\nAll documentation and chapter materials in this repository are made available under the Creative Commons Attribution license. The following is a human-readable summary of (and not a substitute for) the full legal text of the CC BY 4.0 license.\nYou are free:\n\nto Share—copy and redistribute the material in any medium or format\nto Adapt—remix, transform, and build upon the material\n\nfor any purpose, even commercially.\nThe licensor cannot revoke these freedoms as long as you follow the license terms.\nUnder the following terms:\n\nAttribution—You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Openscapes and, where practical, linking to https://github.com/openscapes/approach-guide), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nNo additional restrictions—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\n\nWith the understanding that:\n\nYou do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.\nNo warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.\n\n\n\n\nExcept where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Openscapes Reflections",
+    "section": "",
+    "text": "This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change."
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflections: You and your workflow",
+    "section": "",
+    "text": "You - What are things you know about yourself (I write best in the mornings, I am comfortable speaking up in new spaces)? What is something you learned recently? What is something you learned about yourself recently? Think about something you enjoy doing. What do you enjoy about it? What qualities about yourself do you see coming through? What are your values? Where do you go to get help?\n\n\n\n\n\n\nYour turn\n\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n\nWorkflow - Jot down thoughts about your workflow. What feels good, what feels clunky? Are there things you find yourself repeating a lot (copy-pasting, clicking?) What does a typical day or week look like? What software do you use, and for what purposes? How do you connect pieces together (saving screenshots to send via email?) How do you document your process; how do you come back to something after a week, a month, a year? How do you interact with colleagues? Who do you share your workflow with? Who would you like to share this with? Push back against the \"I work alone\" response: who do you talk to, who influences your work, how do you give and receive feedback"
+  },
+  {
+    "objectID": "imagine.html",
+    "href": "imagine.html",
+    "title": "Imagine: Future You",
+    "section": "",
+    "text": "What have you seen or heard about that has you curious? What is something you’d like to learn? What’s blocking you (time, supervisor support, knowing where to start?) What’s something you’ve meant to look up but haven’t had the chance? Do your values show up in your workflow, and how you interact with colleagues? Getting help - google, youtube, twitter. Colleagues remote and local, on campus. Communities exist. How to interpret search results. Tools and stories"
+  },
+  {
+    "objectID": "goals.html",
+    "href": "goals.html",
+    "title": "Goal-setting: Future Us",
+    "section": "",
+    "text": "What goals do you have, and what do you need to accomplish those goals? What barriers do you see, what questions do you need answered, what conversations do you need to have? Who are your allies, your sponsors, your mentors? Who gives you energy and support? What is something that gives you agency"
+  }
+]
