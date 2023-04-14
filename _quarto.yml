@@ -39,13 +39,13 @@ book:
   chapters:
     - href: "index.qmd"
       text: Welcome
-    - href: "reflections.qmd"
-      text: Reflections
-    - href: "imagine.qmd"
-      text: Imagine
-    - href: "goals.qmd"
-      text: Goal-setting
-    - closing.qmd  
+    # - href: "reflections.qmd"
+    #   text: Reflections
+    # - href: "imagine.qmd"
+    #   text: Imagine
+    # - href: "goals.qmd"
+    #   text: Goal-setting
+    # - closing.qmd
       
 format:
   html:
