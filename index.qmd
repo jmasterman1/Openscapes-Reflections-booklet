@@ -1,4 +1,12 @@
 # Welcome {.unnumbered}
 
-This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change. 
+This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change.
+
+<!-- 
+maybe include what is above, not sure if below is too long. Thinking we could include a picture of us or even some of other cohorts
+-->
+
+Welcome! I'm Ileana a member of the Reflections team who will be here with you as you navigate our programming for the next 3 weeks. I learned about Openscapes as a first year PhD student and have seen open science toold transform how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflow so we can use open science tools successfully as you already are! 
+
+So you may be asking yourself what to "reflect" on during this period and where to start. Over the years Openscapes has helped hundreds of researchers improve how they work and we're here to do the same for you. More often than not we have the answers inside of us, but we aren't given the space and time in our lives to uncover and implement what we know can be helpful. The Reflections program is an opportunity to look inward, what works FOR ME? How do I want to share my research? What skills would improve my work? To answer these questions and more in a space where we make a plan together to improve how and when our work gets done.
 
