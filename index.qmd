@@ -2,13 +2,15 @@
 
 Hello! This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change.
 
-Holiday Council is our end-of-year program that gives you a chance to reconnect to your dreams + recommit to your goals. It's a three week goal-setting course for smart + soulful women done in community. Through a mash-up of calls, deep prompts, gorgeous worksheets, visioning meditations, and flexible action planning — I walk you through a process that's... A little bit practical, a little bit magical + a whole lot of useful.
+Through a series of reflective prompts, community check ins, and practical goal setting modules we walk you through a process that leaves you feeling empowered and intentional about your work and how you can get it done. Reflections is our self driven program that gives you a chance to establish your needs, learn new approaches and confidently pursue your way forward into open science. We look forward to taking this journey together.
+
 
 ![](images/horst-eco-r4ds.png){fig-align="center"}
 
 ```{=html}
 <!-- 
-maybe include what is above, not sure if below is too long. Thinking we could include a picture of us or even some of other cohorts
+dump of words 
+gorgeous worksheets, visioning meditations, and flexible action planning — I walk you through a process that's... A little bit practical, a little bit magical + a whole lot of useful.
 -->
 ```
 
