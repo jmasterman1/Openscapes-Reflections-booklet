@@ -77,16 +77,16 @@ The minimum expected time commitment is 1hr/week for 3 weeks.
 ```
 ## Registration 
 
-**Registration** is \$95 through [this short form]
+**Registration** is \$95 through [this short form]. You are also able to request sponsorship through the form.
 
 Registration includes weekly reflection prompts and 3 live Huddles with our team and the community via Zoom. These calls will be recorded and uploaded online so that you're able to watch them on your own time if you can't attend live.
 
-All reflections prompts will be openly available through this Booklet, so yes, you can do the Reflections program on your own or with your research group (as is true with all Openscapes resources!). We encourage you to do this on your own if that is best for you now. By registering you receive structure, accountability, and community.
+All reflections prompts will be openly available through this Booklet, and yes, you can do the Reflections program for free on your own or with your research group (as is true with all Openscapes resources!), and we encourage this approach if this is right for you. By registering above you receive additional structure, accountability, and community.
 
 
 ## Our team
 
-Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. We are so grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley. And thank you to Stefanie Butland for helping support all Openscapes programs and communities!
+Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. We are so grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!
 
 ![](images/ileana-julie-rstudioconf-2022.jpg){fig-align="center" width="329"}
 
@@ -95,9 +95,12 @@ Hi! I'm Ileana, a core member of the Openscapes team who will be here with you a
 Hi! I'm Julie ...
 
 
+<!---
 ## Testimonials
 
 What people say about Openscapes (not Reflections/Champions specific)
+
+--->
 
 ## About
 
