@@ -2,8 +2,7 @@
 
 Hello! This is a 3-week program, modeled after leadership coaching, that provides structure and accountability for participants to reflect and plan. This reflection and planning focuses on analytical and reporting workflows, and how open data science tools, practices, and communities can improve daily habits and fuel institutional culture change.
 
-Through a series of reflective prompts, community check ins, and practical goal setting modules we walk you through a process that leaves you feeling empowered and intentional about your work and how you can get it done. Reflections is our self driven program that gives you a chance to establish your needs, learn new approaches and confidently pursue your way forward into open science. We look forward to taking this journey together.
-
+Through a series of reflective prompts, community check ins, and practical goal setting modules we walk you through a process that leaves you feeling empowered and intentional about your work and how you can get it done. Reflections is our self driven program that gives you a chance to establish your needs, learn new approaches, and confidently pursue your way forward into open science. We look forward to taking this journey together.
 
 ![](images/horst-eco-r4ds.png){fig-align="center"}
 
@@ -13,63 +12,54 @@ dump of words
 gorgeous worksheets, visioning meditations, and flexible action planning — I walk you through a process that's... A little bit practical, a little bit magical + a whole lot of useful.
 -->
 ```
+Reflections is set up to be affordable, self paced way to learn and embrace open science principles. **We know the Champions program has improved the lives of hundreds of researchers to date, and we want it to be more accessible and bite-sized**
 
-The Holiday Council is set up to be affordable way to get and stay involved in Stratejoy — we look forward to welcoming you back, year after year. We’ve been doing the Holiday Council for eleven years now and it’s incredible to see it becoming a treasured December tradition for so many. **We know the Champions program has had impact and we want it to be more accessible and bite-sized**
+Our three weeks together will take you from feeling overwhelmed and unmotivated by disjointed workflows and spreadsheet drama to understanding exactly what your needs are and exactly how you can use open science to address them.
 
-Our 21 days together in December will take you from feeling like life is moving at warp speed  to understanding exactly where you’ve been and exactly what you want from the year ahead.
-
-No judgement, just support and celebration. No bullshit, just a bevy of other like-minded women. No gurus, just a leader who’s been guiding women through this process for 11 magical years and loving every minute of it!
-
+No judgement, just support and community! We know it can be intimidating to change the way you've been doing your work, and we acknowledge this process takes time. Through Reflections we will start this journey together.
 
 ## Reflecting together
 
-Welcome! I'm Ileana a member of the Reflections team who will be here with you as you navigate our programming for the next 3 weeks. I learned about Openscapes as a first year PhD student and have seen open science toold transform how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflow so we can use open science tools successfully as you already are!
+Welcome! I'm Ileana a member of the Reflections team who will be here with you as you navigate our programming for the next 3 weeks. I learned about Openscapes as a first year PhD student and have seen open science tools transform how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflow so we can use open science tools successfully as you already are!
 
 PICTURE
 
-So you may be asking yourself what to "reflect" on during this period and where to start. Over the years Openscapes has helped hundreds of researchers improve how they work and we're here to do the same for you. More often than not we have the answers inside of us, but we aren't given the space and time in our lives to uncover and implement what we know can be helpful. The Reflections program is an opportunity to look inward, what works FOR ME? How do I want to share my research? What skills would improve my work? To answer these questions and more in a space where we make a plan together to improve how and when our work gets done.
+So you may be asking yourself what to "reflect" on during this period and where to start. Over the years Openscapes has helped hundreds of researchers improve how they work and we're here to do the same for you. More often than not we have the answers inside of us, but we aren't given the space and time in our lives to uncover and implement what we know can be helpful. The Reflections program is an opportunity to look inward, what works for me? How do I want to share my research? What skills would improve my work? To answer these questions and more in a space where we make a plan together to improve how and when our work gets done.
 
-We're excited to meet you and continue the conversations
+We're excited to meet you and continue the conversations.
 
 ## Is this for me?
 
-Yes! Welcome anyone and everyone
-You can be an undergrad, or senior in your career. 
-You can be an ecologist, an immunologist, or a communications person. 
-Don't have to work with data or code
+Yes! Welcome anyone and everyone. Building a work flow with open practices benefits not only you, but those who you work with and the community you share your work with as well. This process is not limited to a certain degree level or area of expertise. You can be an undergrad, or senior in your career. You can be an ecologist, an immunologist, or a communications person.
+
+You don't even have to work with data or code! Open science is movement rooted in creating a more equitable, collaborative, and transparent future for our fields and is being built with folks just like yourself bringing these principles to your work in whichever way you do it.
 
 ## What to expect / What's included
 
- 3 Live Training Calls with Molly
-2 Gorgeous Workbooks
-Archive of Inspirational Interviews
-Private Facebook Community
-Easy to navigate online Headquarters
-Personalized text messages in 2023
-Quarterly Review + Planning Calls in 2023
-
-
+3 Live Training Calls with Molly 2 Gorgeous Workbooks Archive of Inspirational Interviews Private Facebook Community Easy to navigate online Headquarters Personalized text messages in 2023 Quarterly Review + Planning Calls in 2023
 
 ## Schedule
 
-“May 8-26” language (don’t focus on Thursday). Weekly focus:
-Tuesday we’ll email with the prompts
-Thursday we’ll have optional Zoom  
-Friday we’ll upload to Google Folder/YouTube
-“Every week there will be something, we will be here”
+"May 8-26" language (don't focus on Thursday). Weekly focus: Tuesday we'll email with the prompts Thursday we'll have optional Zoom\
+Friday we'll upload to Google Folder/YouTube "Every week there will be something, we will be here"
 
-Topics - 
-Reflections - one complete sentence of what will be true when the topic is complete
-"I know how I work best and am ready to implement it into my workflow"
-"I have reflected how I work and noticed what feels good and what feels stuck"
+Here at Openscapes, we are dreamers and doers. We want to take advantage of our few weeks with you and focus on three core topics: reflecting, imagining, and goal setting. Here are affirmations you will feel once each lesson is complete.
 
-Imagine - "I seen more of what's possible and how my peers work and can see myself incorporating this too"
-"
+1\) Reflections
 
+> I know how I work best and am ready to implement it into my workflow.
+>
+> I have reflected how I work and noticed what feels good and what feels stuck.
 
-Goal-setting - "I feel confident about using open science practices where I am now" 
-"I feel confident and empowered by what's possible and have a starting plan to weave this into my ongoing work"
+2\) Imagine
 
+> I seen more of what's possible and how my peers work and can see myself incorporating this too.
+
+3\) Goal-setting
+
+> I feel confident about using open science practices where I am now.
+>
+> I am empowered by what's possible and have a starting plan to weave this into my ongoing work.
 
 ## Testimonials
 
