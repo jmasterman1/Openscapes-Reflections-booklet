@@ -39,8 +39,8 @@ book:
   chapters:
     - href: "index.qmd"
       text: Welcome
-    # - href: "reflections.qmd"
-    #   text: Reflections
+    # - href: "reflect.qmd"
+    #   text: Reflect
     # - href: "imagine.qmd"
     #   text: Imagine
     # - href: "goals.qmd"
