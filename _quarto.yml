@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 book:
-  title: Openscapes Reflections
+  title: Openscapes Reflections Program Booklet
   subtitle: Open educational resources for Openscapes Reflections
-  output-file: "openscapes-reflections"
+  output-file: "openscapes-reflections-booklet"
   downloads: [pdf, docx]
   
   page-navigation: true
-  site-url: "https://openscapes.github.io/reflections"
-  repo-url: https://github.com/openscapes/reflections
+  site-url: "https://openscapes.github.io/booklet"
+  repo-url: https://github.com/openscapes/booklet
   repo-actions: [edit, source, issue]
   search: true
   
@@ -19,7 +19,7 @@ book:
   #     href: https://openscapes.org
   #     text: "Openscapes.org"
   #   - icon: github
-  #     href: https://github.com/openscapes/reflections
+  #     href: https://github.com/openscapes/booklet
   #     text: "Openscapes Series GitHub"
   #   - icon: twitter
   #     href: https://twitter.com/openscapes
