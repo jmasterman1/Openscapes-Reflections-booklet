@@ -4,8 +4,8 @@ project:
 
 book:
   title: Openscapes Reflections
-  subtitle: Open Booklet for the Reflections Program
-  output-file: "QmdReport"
+  subtitle: Open educational resources for Openscapes Reflections
+  output-file: "openscapes-reflections"
   downloads: [pdf, docx]
   
   page-navigation: true
