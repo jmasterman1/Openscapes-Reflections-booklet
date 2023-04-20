@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: Openscapes Reflections Program Booklet
-  subtitle: Open educational resources for Openscapes Reflections
+  title: Openscapes Reflections Booklet
+  subtitle: Open educational resources for the Openscapes Reflections Program
   output-file: "openscapes-reflections-booklet"
   downloads: [pdf, docx]
   
