@@ -12,7 +12,6 @@ At [Openscapes](https://openscapes.org), we think about open science like a land
 
 --->
 ```
-
 ## Reflecting together
 
 The motivation for Openscapes Reflections is to provide a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change.
@@ -28,7 +27,6 @@ We know the Champions program has improved the lives of hundreds of researchers 
 establish your needs, learn new approaches, and confidently pursue your way forward into open science. for you 
 --->
 ```
-
 ## Schedule
 
 Reflections will run from **May 8-26 2023**. Every week there will be new prompts and opportunities to focus together and on your own time.
@@ -53,7 +51,6 @@ Each week you'll reflect to the prompts in this booklet, and have the opportunit
 
 You may be asking yourself what to "reflect" on during this period and where to start. More often than not, when prompted we can identify what we need, but we don't give ourselves the space in our lives to do so. Further, the open data science landscape has completely changed how we can do and share our research, and few of us have had the opportunity to learn where to learn the skills required to engage. The Reflections program is an opportunity to ask what works for me, where am I stuck? What would improve my work? What will I do next? We'll answer these questions together in a space where we each make a plan to improve how we work and support culture change more broadly.
 
-
 ### Is this for me?
 
 Yes! We welcome anyone and everyone. If you're sensing you could improve your daily life by rethinking parts of your workflows, this program is for you. You don't need to know where to start; this program gives you that space and guidance.
@@ -68,9 +65,9 @@ Additionally, you don't have to work with data or code! We see open science as a
 The minimum expected time commitment is 1hr/week for 3 weeks.
 -->
 ```
-## Registration 
+## Registration
 
-**Registration** is \$95 through [this short form]. You are also able to request sponsorship through the form.
+**Registration** is \$95 through [this short form](https://forms.gle/aq9vPiyHSoVjfY9t9). We intend to make this program accessible to anyone interested: sponsorship available through the form.
 
 Registration includes 3 weekly reflection prompts and 3 live Huddles with our team and the community via Zoom. These calls will be recorded and uploaded online so that you're able to watch them on your own time if you can't attend live.
 
@@ -82,8 +79,6 @@ All reflections prompts will be openly available through this Booklet, and yes, 
 
 [Openscapes](https://openscapes.org) is an approach for doing better science in less time. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes' mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.
 
-
-
 ### Our team
 
 Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!
@@ -92,17 +87,16 @@ Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Progr
 
 Hi! I'm Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflow so we can use open science tools successfully as you already are!
 
-Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is in writing, code, facilitation, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect and provide a different mode of support for researchers and those who support research!
+Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is in writing, code, facilitation, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect with you!
 
-
+```{=html}
 <!---
 ## Testimonials
 
 What people say about Openscapes (not Reflections/Champions specific)
 
 --->
-
-
+```
 ### This Booklet
 
 The Booklet is written as an open educational resource to reuse and remix. This open curriculum is improved iteratively and the most recent version always available online for reuse and remix. Each (upcoming) chapter in the Reflections Booklet introduces prompts to guide your reflections.
