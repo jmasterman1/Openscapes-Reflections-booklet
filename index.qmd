@@ -14,9 +14,9 @@ At [Openscapes](https://openscapes.org), we think about open science like a land
 ```
 ## Reflecting together
 
-Openscapes Reflections provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change.
+Openscapes Reflections provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change. This can mean moving away from workflows with folders full of files with names like \"analysis_final_2b.xlsx\" and redirecting that energy to the parts of your work you really care about.
 
-The Reflections Program is set up to be an affordable, self-paced way to learn and incorporate open data science principles into your workflow, no matter where you are starting from. <!--# preceding sentence largely redundant with first sentence. What's different is "affordable, self-paced ... no matter where you are starting from -->Through weekly prompts and community huddles, we will reflect together through a process that leaves you feeling empowered and intentional about your work and how you can get it done. We're hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team. We designed this to complement our ongoing initiatives, particularly the [Openscapes Champions Program](https://openscapes.org/champions), so here you can explore your workflows in a self-driven manner aligned with the Pathway document<!--# ref to Pathway doc comes out of nowhwere -->.
+Through weekly prompts and community huddles, we will reflect together through a process that leaves you feeling empowered and intentional about your work and how you can get it done. It is a self-paced program to improve your daily workflow, no matter where you are starting from. We're hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team.
 
 ```{=html}
 <!--- 
@@ -53,23 +53,15 @@ You may be asking yourself what to "reflect" on during this period and where to 
 
 ### Is this for me?
 
-Yes! We welcome anyone and everyone. <!--# like Pathways, say right at the start of this section whether people need to already know what data science is, or what minimal knowledge is ideal -->If you're sensing you could improve your daily life by rethinking parts of your workflows <!--# we've heard that people don't understand what "workflows" means / encompasses so people might opt out here. Can you give 2 small accessible examples like consistent file naming and emailing data files (or something). check where you 1st use the term workflows -->, this program is for you. You don't need to know where to start; this program gives you that space and guidance.
+Yes! We welcome anyone and everyone. You don't have to work with data or code! We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. If you're sensing you could improve your daily life by rethinking parts of your workflows, this program is for you. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start.
 
 Incorporating open practices into your workflows benefits not only you, but those you work with and the community you share your work with as well. While we are motivated by climate change and social justice, this program is not limited to a certain degree level, discipline, or area of expertise. You can be early in your career, a member of senior leadership, or anywhere in between. You can be an ecologist, an immunologist, or in a communications field, or figuring out what you want to be! We're excited to meet you and begin the conversations.
 
-You don't have to work with data or code! We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it.
-
-```{=html}
-<!-- 
-
-The minimum expected time commitment is 1hr/week for 3 weeks.
--->
-```
 ## Registration
 
 **Registration** is \$95 through [this short form](https://forms.gle/aq9vPiyHSoVjfY9t9). We intend to make this program accessible to anyone interested: sponsorship available through the form.
 
-Registration includes 3 weekly reflection prompts and 3 live Huddles with our team and the community via Zoom. These calls will be recorded and uploaded online <!--# recordings private or public? -->so that you're able to watch them on your own time if you can't attend live.
+Registration includes 3 weekly reflection prompts and 3 live Huddles with our team and the community via Zoom. These calls will be recorded and uploaded online so that you're able to watch them on your own time if you can't attend live.
 
 All reflection prompts will be openly available through this Booklet, and yes, you can do the Reflections program for free on your own or with colleagues (as is true with all Openscapes resources!). We encourage this approach if this is right for you. By registering above you receive additional structure, accountability, and a supportive community.
 
@@ -83,9 +75,9 @@ All reflection prompts will be openly available through this Booklet, and yes, y
 
 Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!
 
-![](images/ileana-julie-rstudioconf-2022.jpg){fig-align="center" width="329"}
+![Ileana Fenwick and Julie Lowndes at the 2022 RStudio conference](images/ileana-julie-rstudioconf-2022.jpg){fig-alt="Two women smiling at the camera outside at night. The woman on the left is Black and wearing a black shirt and a lanyard that says RStudio. The woman on the right is white and wearing a yellow shirt and glasses." fig-align="center" width="329"}
 
-Hi! I'm Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can use open science tools successfully as you already are! <!--# clarify "as you already are" -->
+Hi! I'm Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.
 
 Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is in writing, code, facilitation, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect with you!
 
@@ -105,11 +97,11 @@ And also, awesomely, it's created with the same tools and practices we use in an
 
 ### Citation
 
-All material in the Openscapes Reflections Booklet is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/series/blob/main/LICENSE.md) <!--# link to LICENSE.md instead. Note it is CC-BY for docs and data and MIT for software -->.
+All material in the Openscapes Reflections Booklet is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/booklet/blob/main/LICENSE.md).
 
 Please cite this guide as:
 
-The Openscapes Core Team, Lowndes & Fenwick (2023). Openscapes Reflections Booklet (v2023.04.0 <!--# For docs like this I've been using v2023.04.0 = year.month.zero, suggested by Erin I think. Makes citation informative. This is what I'd use for Zenodo version. I don't know why.zero, but if being strict, we would increment if another release came in April. -->).
+The Openscapes Core Team, Lowndes & Fenwick (2023). Openscapes Reflections Booklet (v2023.04.0).
 
 ```{=html}
 <!---
