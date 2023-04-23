@@ -2,7 +2,7 @@
 
 **Hello! This is the open booklet for the Openscapes Reflections Program, an open data science coaching program for researchers and those who support research.**
 
-Over the last five years [Openscapes](https://openscapes.org) has helped hundreds of researchers improve their work life through open and kinder science, largely through [Openscapes Champions](https://openscapes.org/champions), a 10-week mentorship program for science teams. We know many like you have been looking for a lighter-weight way to get involved to support yourself and your colleagues. We've designed the Reflections Program to meet this need and be more accessible and affordable; a welcoming place to reflect and grow the open science movement. Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach. We look forward to learning together with you on this journey in the first iteration of this program.
+Over the last five years [Openscapes](https://openscapes.org) has helped hundreds of researchers improve their work life through open and kinder science, largely through [Openscapes Champions](https://openscapes.org/champions), a 10-week mentorship program for science teams. We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We've designed the Reflections Program to meet this need and be more accessible and affordable; a welcoming place to reflect and grow the open science movement. Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach. We look forward to learning together with you on this journey in the first iteration of this program.
 
 ```{=html}
 <!--- 
@@ -14,7 +14,7 @@ At [Openscapes](https://openscapes.org), we think about open science like a land
 ```
 ## Reflecting together
 
-Openscapes Reflections provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change. This can mean moving away from workflows with folders full of files with names like \"analysis_final_2b.xlsx\" and redirecting that energy to the parts of your work you really care about.
+Openscapes Reflections provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change. This can mean moving away from workflows with folders full of files with names like "analysis_final_2b.xlsx" and redirecting that energy to the parts of your work you really care about.
 
 Through weekly prompts and community huddles, we will reflect together through a process that leaves you feeling empowered and intentional about your work and how you can get it done. It is a self-paced program to improve your daily workflow, no matter where you are starting from. We're hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team.
 
