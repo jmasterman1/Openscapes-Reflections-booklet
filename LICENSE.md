@@ -1,4 +1,5 @@
 # LICENSE
+
 Adapted from [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)
 
 Openscapes makes all of their materials publicly available under open source licenses.
