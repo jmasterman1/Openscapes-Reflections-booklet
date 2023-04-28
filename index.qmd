@@ -53,9 +53,17 @@ You may be asking yourself what to "reflect" on during this period and where to 
 
 ### Is this for me?
 
-Yes! We welcome anyone and everyone. You don't have to work with data or code! We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. If you're sensing you could improve your daily life by rethinking parts of your workflows, this program is for you. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start.
+We think so! This program is for you if:
 
-Incorporating open practices into your workflows benefits not only you, but those you work with and the community you share your work with as well. While we are motivated by climate change and social justice, this program is not limited to a certain degree level, discipline, or area of expertise. You can be early in your career, a member of senior leadership, or anywhere in between. You can be an ecologist, an immunologist, or in a communications field, or figuring out what you want to be! We're excited to meet you and begin the conversations.
+-   you're sensing you could improve your daily life by rethinking parts of your workflows
+
+-   you're looking for accountability and space
+
+-   you're open to trying new things
+
+Reflections does not require any experience with data, code, or open science. We designed it for people across career stages, disciplines, and areas of expertise.
+
+We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start. We're excited to meet you and begin the conversations.
 
 ## Registration
 
