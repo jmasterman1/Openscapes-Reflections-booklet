@@ -62,8 +62,8 @@ format:
     template-partials: ["partials/before-body.tex"]
     toc: true
     toc-depth: 2
-    lof: true
-    lot: true
+    lof: false
+    lot: false
     include-in-header: 
       - partials/inheader1.tex
 
