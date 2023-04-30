@@ -24,32 +24,32 @@ Great language but redundant (for now - save for other uses)
 
 We know the Champions program has improved the lives of hundreds of researchers to date, and we want it to be more accessible and bite-sized.
 
-establish your needs, learn new approaches, and confidently pursue your way forward into open science. for you 
+establish your needs, learn new approaches, and confidently pursue your way forward into open science.  
 --->
 ```
-## Schedule
+## Program Details
 
-Reflections will run from **May 8-26 2023**. Every week there will be new prompts and opportunities to focus together and on your own time.
+Reflections will run from **May 9-26 2023**. Through weekly prompts and community huddles, you\'ll have opportunities to reflect on your own time or together in a way we hope leaves you feeling empowered and intentional.
 
--   **Tuesdays**: Reflection prompts are emailed
--   **Thursdays**: Optional Huddle via Zoom with the Openscapes team and the Reflections community
--   **Fridays**: Huddle recording available online for your review
+-   **Tuesdays**: Reflection prompts received via email
+-   **Thursdays**: Community Huddle with the Openscapes team and other participants (Optional, via Zoom at 12pm EDT)
+-   **Fridays**: Huddle recording available online for reflecting asynchronously
 
-At Openscapes, we reflect, reimagine, and make our goals actionable incrementally through our daily work. Each week we spend together will help you do this too. Here is how we hope you'll feel after each week:
+Each week will have a specific focus. Here is how we hope you\'ll feel after each week:
 
-**Week 1. Reflect** - I have reflected how I work and noticed what feels good and what feels stuck.
+1.  **Reflect** - I have reflected how I work and noticed what feels good and what feels stuck.
 
-**Week 2. Imagine** - I have seen more of what's possible with open data science and how my peers work and can see myself incorporating this too.
+2.  **Imagine** - I have seen more of what's possible with open data science and how my peers work and can see myself incorporating this too.
 
-**Week 3. Set Goals** - I am empowered by what's possible and have a starting plan and community to weave this into my ongoing work, and I know I am not alone.
+3.  **Set Goals** - I am empowered by what's possible and have a starting plan and community to weave this into my ongoing work, and I know I am not alone.
 
 ## What to expect
 
-No judgement, just support and community! We know from experience it is intimidating to change how you work, and this process takes time and small steps. Through Reflections we will focus on this journey together.
+No judgment, just support and community! We know from experience it is intimidating to change how you work, and this process takes time and small steps. Through Reflections we will focus on this journey together.
 
-Each week you'll reflect on the prompts in this booklet, and have the opportunity to join a Huddle to reflect in the company of like-minded folks, ask your questions, and share your experiences. This is how we all learn together, reimagine our work, and drive culture change.
+Each week you'll reflect on the prompts in this booklet (upcoming), and have the opportunity to join a Huddle to reflect in the company of like-minded folks, ask your questions, and share your experiences. We'll record this conversation so others can follow along asyncronously. This is how we all learn together, reimagine our work, and drive culture change.
 
-You may be asking yourself what to "reflect" on during this period and where to start. More often than not, when prompted we can identify what we need, but we don't give ourselves the space in our lives to do so. Further, the open data science landscape has completely changed how we can do and share our research, and few of us have had the opportunity to find where to learn the skills required to engage. The Reflections program is a space to ask, What works for me? Where am I stuck? What would improve my work? What will I do next? We'll answer these questions together in a space where we each make a plan to improve how we work and support culture change more broadly.
+You may be asking yourself what to "reflect" on during this period and where to start. More often than not, when prompted we can identify what we need, but we don't give ourselves the space in our lives to do so. Further, the open data science landscape has completely changed how we can do and share our research, and few of us have had the opportunity to find where to learn the skills required to engage. The Reflections program is a space to ask, What works for me? Where am I stuck? What would improve my work? What will I do next? We'll each answer these questions for ourselves together in a space where we each make a plan to improve how we work and support culture change more broadly.
 
 ### Is this for me?
 
@@ -57,13 +57,13 @@ We think so! This program is for you if:
 
 -   you're sensing you could improve your daily life by rethinking parts of your workflows
 
--   your time is limited; you're looking for accountability and space
+-   you're looking for accountability and space within limited time availabilty
 
 -   you're open to trying new things
 
-Reflections does not require any experience with data, code, or open science. We designed it for people across career stages, disciplines, and areas of expertise.
+You do not need any previous experience with data, code, or open science. We designed Reflections for people across career stages, disciplines, and areas of expertise.
 
-We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start. We're excited to meet you and begin the conversations.
+We see open science as a movement rooted in creating a more inclusive, collaborative, and kinder future for our planet and society. This movement is being built with folks just like yourself bringing these principles to your work in whichever way you do it. Wherever you are now is the right place; this program gives you that space and guidance to figure out where to start or take your next step. We're excited to meet you and begin the conversations.
 
 ## Registration
 
@@ -71,7 +71,7 @@ We see open science as a movement rooted in creating a more inclusive, collabora
 
 Registration includes 3 weekly reflection prompts and 3 live Huddles with our team and the community via Zoom. These calls will be recorded and uploaded online so that you're able to watch them on your own time if you can't attend live.
 
-All reflection prompts will be openly available through this Booklet, and yes, you can do the Reflections program for free on your own or with colleagues (as is true with all Openscapes resources!). We encourage this approach if this is right for you. By registering above you receive additional structure, accountability, and a supportive community.
+All reflection prompts are openly available through this Booklet (upcoming). Yes, you can do the Reflections program for no cost from these open educational resources alone (as is true with all Openscapes resources!). We encourage you to do this alone (or with your colleagues) if this is right for you. By registering above you receive additional structure, accountability, and a supportive community.
 
 ## About
 
@@ -81,13 +81,13 @@ All reflection prompts will be openly available through this Booklet, and yes, y
 
 ### Our team
 
-Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!
+Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We're also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!
 
 ![Ileana Fenwick and Julie Lowndes at the 2022 RStudio conference](images/ileana-julie-rstudioconf-2022.jpg){fig-alt="Two women smiling at the camera outside at night. The woman on the left is Black and wearing a black shirt and a lanyard that says RStudio. The woman on the right is white and wearing a yellow shirt and glasses." fig-align="center" width="329"}
 
 Hi! I'm Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.
 
-Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is in writing, code, facilitation, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect with you!
+Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is with data, code, facilitation, community building, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect with you!
 
 ```{=html}
 <!---
