@@ -1,47 +1,40 @@
 # Welcome {.unnumbered}
 
-**Hello! This is the open booklet for the Openscapes Reflections Program, an open data science coaching program for researchers and those who support research.**
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research**. Reflections is a 3-week program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. From May 9-26 2023, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.
 
-Over the last five years [Openscapes](https://openscapes.org) has helped hundreds of researchers improve their work life through open and kinder science, largely through [Openscapes Champions](https://openscapes.org/champions), a 10-week mentorship program for science teams. We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We've designed the Reflections Program to meet this need and be more accessible and affordable; a welcoming place to reflect and grow the open science movement. Reflections is a 3-week program modeled from leadership coaching, something now core to the Openscapes approach. We look forward to learning together with you on this journey in the first iteration of this program.
+We designed Reflections to be rewarding for colleagues who haven't been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel culture change. We wanted to create a space for us all to get a little less stuck in our daily workflows (folders full of files with names like \"Report_with_figuresFINAL_v2.doc\" anyone?) so we can redirect our energy to the part of our work that we care about, connected to our values including climate change and social justice.  If this sounds enticing to you, we hope you\'ll join us.
 
-```{=html}
-<!--- 
-At [Openscapes](https://openscapes.org), we think about open science like a landscape, and we help researchers move from lonely science towards collaborative science as they identify their common needs and start navigating the landscape wherever they are starting from.
+## Background
 
-![](images/horst_openscapes_champions.jpg){fig-align="center"} <br>
+Over the last five years Openscapes has helped hundreds of researchers improve their work-life through open and kinder science. We know many like you have been looking for a lighter-weight way to get involved or continue building habits to support yourself and your colleagues. We\'ve designed the Reflections Program to meet this need and also be more accessible and affordable. We\'ve specifically designed it for people who: 
 
---->
-```
-## Reflecting together
+-   have been interested in [Openscapes Champions](https://openscapes.org/champions) (a 10-week mentorship program for environmental and Earth science teams) but have not yet participated due to cost or booking availability 
 
-Openscapes Reflections provides a space to reflect on your workflows and plan how open data science practices can improve your daily habits and fuel institutional culture change. This can mean moving away from workflows with folders full of files with names like "analysis_final_2b.xlsx" and redirecting that energy to the parts of your work you really care about.
+-   have participated in Openscapes Champions and would like this opportunity for onboarding new team members, or want to revisit their work-in-progress themselves
 
-Through weekly prompts and community huddles, we will reflect together through a process that leaves you feeling empowered and intentional about your work and how you can get it done. It is a self-paced program to improve your daily workflow, no matter where you are starting from. We're hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team.
+-   have participated in Openscapes [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/) and interested in next steps for building more resilient workflows
 
-```{=html}
-<!--- 
-Great language but redundant (for now - save for other uses)
+-   have not yet been involved with Openscapes or only lightly involved, and regardless of discipline, job title, career stage, and proximity to data and code, are feeling friction with their workflows, or are curious about open science 
 
-We know the Champions program has improved the lives of hundreds of researchers to date, and we want it to be more accessible and bite-sized.
+We know that **making space to talk about workflows** is so important for teams -- [Seaside Chats](https://openscapes.github.io/supercharge-research/) and Coworking are often cited as the most valuable parts of Openscapes when we check in with teams we\'ve worked with in academia and government. These spaces are where folks identify their needs and begin addressing them through individual skillbuilding and shared workflow redesign, whether or not they work with data or code. Making this space to reflect is an integral part of Openscapes Champions and we're curious whether it will be helpful to folks as a stand-alone program that could include far more people.
 
-establish your needs, learn new approaches, and confidently pursue your way forward into open science.  
---->
-```
 ## Program Details
 
-Reflections will run from **May 9-26 2023**. Through weekly prompts and community huddles, you\'ll have opportunities to reflect on your own time or together in a way we hope leaves you feeling empowered and intentional.
+Reflections will run from **May 9-26 2023 (1 hour/week)**. Through weekly prompts and community huddles, you'll have opportunities to reflect on your own time or together in a way we hope leaves you feeling empowered and intentional.
 
 -   **Tuesdays**: Reflection prompts received via email
 -   **Thursdays**: Community Huddle with the Openscapes team and other participants (Optional, via Zoom at 12pm EDT)
 -   **Fridays**: Huddle recording available online for reflecting asynchronously
 
-Each week will have a specific focus. Here is how we hope you\'ll feel after each week:
+Each week will have a specific focus. Here is how we hope you'll feel after each week:
 
 1.  **Reflect** - I have reflected how I work and noticed what feels good and what feels stuck.
 
 2.  **Imagine** - I have seen more of what's possible with open data science and how my peers work and can see myself incorporating this too.
 
 3.  **Set Goals** - I am empowered by what's possible and have a starting plan and community to weave this into my ongoing work, and I know I am not alone.
+
+Reflections is a self-paced program to improve your daily workflow, no matter where you are starting from. We\'re hoping this is something that will be valuable for you year after year, both for reflecting yourself and onboarding your team.
 
 ## What to expect
 
@@ -53,7 +46,7 @@ You may be asking yourself what to "reflect" on during this period and where to 
 
 ### Is this for me?
 
-We think so! This program is for you if:
+We hope so! This program is for you if:
 
 -   you're sensing you could improve your daily life by rethinking parts of your workflows
 
@@ -88,6 +81,8 @@ Julie Lowndes and Ileana Fenwick are designing and leading the Reflections Progr
 Hi! I'm Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don't expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.
 
 Hi! I'm Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I've made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is with data, code, facilitation, community building, or other skills relevant to open science, climate, and social justice movements. I'm excited to have this time to reflect with you!
+
+Please ask us your questions! We look forward to learning together with you on this journey in the first iteration of this program.
 
 ```{=html}
 <!---
