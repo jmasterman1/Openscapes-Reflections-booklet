@@ -4,6 +4,6 @@
 
 Openscapes Reflections Program, modeled after leadership coaching, offers structure and accountability for participants to reflect and plan on analytical and reporting workflows to improve daily habits and fuel institutional culture change.
 
-Learn more about Openscapes: <https://openscapes.org>.
+Learn more about Openscapes at <https://openscapes.org>.
 
 We're using `quarto publish` to publish this booklet.
