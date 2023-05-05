@@ -61,8 +61,10 @@ format:
   pdf:
     documentclass: scrbook
     classoption: ["oneside", "open=any"]
-    toc: true
-    toc-depth: 1
+    template-partials: ["partials/before-body.tex"]
+    toc: false
+    include-in-header: 
+      - partials/inheader1.tex
 
 
 filters:
