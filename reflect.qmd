@@ -61,7 +61,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## What software do you use, and for what purposes?  
 
-::: {.callout-tip appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.2--->
 
@@ -98,7 +98,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## What kinds of files do you work with? 
 
-::: {.callout-tip appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.2--->
 
@@ -135,7 +135,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## What does your workflow look like? 
 
-::: {.callout-important appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.3--->
 
@@ -214,7 +214,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## How do you track tasks for your workflow? 
 
-::: {.callout-caution appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.4--->
 
@@ -252,9 +252,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## How do you collaborate with colleagues? 
 
-::: {.callout-caution appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
-<!---p.3--->
+<!---p.4--->
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
@@ -292,7 +292,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ::: {.callout-note appearance="minimal" icon="false"}
 
-<!---p.4--->
+<!---p.5--->
 
 *There are good things about your workflow. What feels good to you?*
 
@@ -331,7 +331,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 ::: {.callout-note appearance="minimal" icon="false"}
 
 
-<!---p.4--->
+<!---p.5--->
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
@@ -375,9 +375,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 ## What is top-of-mind for you?
 
-::: {.callout-tip appearance="minimal" icon="false"}
+::: {.callout-note appearance="minimal" icon="false"}
 
-<!---p.5--->
+<!---p.6--->
 
 *What might be a focus for the next few weeks?*
 
