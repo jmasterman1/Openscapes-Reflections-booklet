@@ -1,0 +1,10 @@
+# Defining our workflows {.unnumbered}
+
+We define workflows as the personal space, habits, and tools we use to complete and share our work.
+
+Jenny Bryan, who thinks a lot about and designs software to streamline workflows, says: 
+
+> there's a distinction between things you do because of personal taste & habits (“workflow”) versus the logic and output that is the essence of your project (“product”). (CITE)
+
+Here's what it looks like for us. 
+Here are our our intro slides
