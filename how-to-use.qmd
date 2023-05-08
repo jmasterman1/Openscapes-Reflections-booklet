@@ -1,5 +1,15 @@
 # How to use this booklet {.unnumbered}
 
-Can download as pdf, click the button
+The numbered chapters of this booklet are meant for you to reflect and write in. To make your own copy, you have a few options. 
 
-Can fork and edit online using GitHub - here are Gavin’s instructions 
+## Download as PDF
+
+To download the booklet as PDF, click the PDF icon on the left navbar, just below the Openscapes logo. 
+
+Then, you can either use a PDF viewer to fill it in digitally, or print it out to use a pencil or pen. 
+
+## Fork to your GitHub account
+
+We've built this booklet collaboratively with Quarto and GitHub. This is a workflow that's super powerful for research — that's where we first learned it too. This booklet is a low-stakes way to practice the Quarto-GitHub workflow if that's something you're interested in. 
+
+In GitHub terminology, "forking" means making a copy that's still connected to the original (so that you can send updates back and forth). To do this, follow the steps involved in our tutorial: [Making shareable documents with Quarto](https://openscapes.github.io/quarto-website-tutorial/). Specifically, first you'll [fork to your GitHub account](https://openscapes.github.io/quarto-website-tutorial/explore.html#fork-to-your-account). Then, you'll be able to [edit from the browser](https://openscapes.github.io/quarto-website-tutorial/quarto-workflows/browser.html) or follow the instructions to work locally.
