@@ -1,6 +1,5 @@
----
-title: "Week 1: Reflect"
----
+# Reflect
+
 
 ## What are things you know about yourself and how you work? {.unnumbered}
 
@@ -38,8 +37,7 @@ title: "Week 1: Reflect"
 
  
 
-
-## What software do you use, and for what purposes?  {.unnumbered}
+## What software do you use, and for what purposes? {.unnumbered}
 
 <!---p.2--->
 
@@ -53,12 +51,19 @@ title: "Week 1: Reflect"
 
  
 
-## What kinds of files do you work with?  {.unnumbered}
+   
+
+   
+
+ 
+
+ 
+
+## What kinds of files do you work with? {.unnumbered}
 
 <!---p.2--->
 
-*How do you organize them? Do you download and save in folders? How do
-you find them?*
+*How do you organize them? Do you download and save in folders? How do you find them?*
 
    
 
@@ -68,27 +73,19 @@ you find them?*
 
  
 
-## How do you keep track of your workflow?  {.unnumbered}
-
-<!---p.2--->
-
-*Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you come back to something after a week, a month, a year?*
-
- 
-
-     
-
- 
+   
 
    
 
-## What does your workflow look like?  {.unnumbered}
+ 
+
+ 
+
+## What does your workflow look like? {.unnumbered}
 
 <!---p.3--->
 
-*Think of a specific project or piece of your workflow. What does an
-example day or week look like? How do software and files connect
-together? You can draw this*
+*Think of a specific project or piece of your workflow. What does an example day or week look like? How do software and files connect together? You can draw this*
 
  
 
@@ -105,7 +102,46 @@ together? You can draw this*
  
 
    
-## How do you collaborate with colleagues?  {.unnumbered}
+
+## How do you track tasks for your workflow? {.unnumbered}
+
+<!---p.3--->
+
+*Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
+
+ 
+
+     
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+   
+
+## How do you collaborate with colleagues? {.unnumbered}
 
 <!---p.3--->
 
@@ -119,9 +155,10 @@ together? You can draw this*
 
    
 
-## What feels good about your workflow?  {.unnumbered}
+## What feels good about your workflow? {.unnumbered}
 
 <!---p.4--->
+
 *There are good things about your workflow. What feels good to you?*
 
  
@@ -142,13 +179,11 @@ together? You can draw this*
 
  
 
-
-## What feels clunky about your workflow?  {.unnumbered}
+## What feels clunky about your workflow? {.unnumbered}
 
 <!---p.4--->
 
-*Are there places you suspect take longer than they should? Are there
-things you find yourself repeating a lot (copy-pasting, clicking?)*
+*Are there places you suspect take longer than they should? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
  
 
@@ -156,8 +191,7 @@ things you find yourself repeating a lot (copy-pasting, clicking?)*
 
  
 
-   
- 
+     
 
  
 
@@ -169,8 +203,7 @@ things you find yourself repeating a lot (copy-pasting, clicking?)*
 
  
 
-
-## What is top-of-mind for you?  {.unnumbered}
+## What is top-of-mind for you? {.unnumbered}
 
 <!---p.5--->
 
@@ -183,3 +216,21 @@ things you find yourself repeating a lot (copy-pasting, clicking?)*
  
 
    
+
+
+::: {.callout-note appearance="minimal" icon="false"}
+## What is top-of-mind for you?
+
+<!---p.5--->
+
+*What might be a focus for the next few weeks?*
+
+ 
+
+     
+
+ 
+
+   
+
+:::

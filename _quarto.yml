@@ -59,12 +59,9 @@ format:
     code-overflow: wrap
     toc: true
   pdf:
-    documentclass: scrbook
-    classoption: ["oneside", "open=any"]
-    template-partials: ["partials/before-body.tex"]
-    toc: false
-    include-in-header: 
-      - partials/inheader1.tex
+    toc: true
+    toc-depth: 1
+
 
 
 filters:
