@@ -2,16 +2,12 @@
 
 Our purpose today is to notice – what works, what doesn’t work? We’ll think about your workflows and how you collaborate.
 
-::: {.callout-note appearance="minimal" icon="false"}
 ## What are things you know about yourself and how you work? {.unnumbered}
-
+::: {.callout-note appearance="minimal" icon="false"}
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
 
- 
-
- 
 
  
 
