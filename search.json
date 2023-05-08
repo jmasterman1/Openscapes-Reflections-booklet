@@ -42,11 +42,18 @@
     "text": "About\n\nOpenscapes\nOpenscapes is an approach for doing better science in less time. We help research groups reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research communities. Openscapes’ mentorship and community engagement approaches center on open data science as kinder science, enabling increased efficiency and resilience for teams so that their work has more enduring impact.\n\n\nOur team\nJulie Lowndes and Ileana Fenwick are designing and leading the Reflections Program this year. We are super grateful to Erin Robinson for introducing us to coaching as a skill for open data science and having the initial idea for the Reflections program. We’re also grateful for many formative conversations with Liz Neeley, and to Stefanie Butland for helping support all Openscapes programs and communities!\n\n\n\nIleana Fenwick and Julie Lowndes at the 2022 RStudio conference\n\n\nHi! I’m Ileana, a core member of the Openscapes team. I learned about open data science as a first year PhD student and these tools have transformed how I do my work. Going from never hearing about open science before to implementing these strategies and tools is challenging! We don’t expect you to do it all in these next few weeks. This is a space to study your own habits and workflows so we can improve incrementally and help each other.\nHi! I’m Julie, founder and director of Openscapes. Since I first felt empowered by the open science community I’ve made it a priority to welcome and support as many others as possible. I have learned how to experiment and incorporate the new things I learn into my daily work, whether that is with data, code, facilitation, community building, or other skills relevant to open science, climate, and social justice movements. I’m excited to have this time to reflect with you!\nPlease ask us your questions! We look forward to learning together with you on this journey in the first iteration of this program.\n\n\n\nThis Booklet\nThe Booklet is written as an open educational resource to reuse and remix. This open curriculum is improved iteratively and the most recent version is always available online. Each (upcoming) chapter in the Reflections Booklet introduces prompts to guide your reflections.\nAnd also, awesomely, it’s created with the same tools and practices we use in analyses: R/RStudio - R Markdown and Quarto - and GitHub.\nAs we migrate our website to Quarto from RMarkdown, some of this content from this page will move to a separate page, separate from this booklet. Stay tuned at openscapes.org/initiatives.\n\n\nCitation\nAll material in the Openscapes Reflections Booklet is available under a CC-BY 4.0 licence.\nPlease cite this guide as:\nThe Openscapes Core Team, Lowndes & Fenwick (2023). Openscapes Reflections Booklet (v2023.04.0)."
   },
   {
-    "objectID": "how-to-use.html",
-    "href": "how-to-use.html",
+    "objectID": "how-to-use.html#download-as-pdf",
+    "href": "how-to-use.html#download-as-pdf",
     "title": "How to use this booklet",
-    "section": "",
-    "text": "Can download as pdf, click the button\nCan fork and edit online using GitHub - here are Gavin’s instructions"
+    "section": "Download as PDF",
+    "text": "Download as PDF\nTo download the booklet as PDF, click the PDF icon on the left navbar, just below the Openscapes logo.\nThen, you can either use a PDF viewer to fill it in digitally, or print it out to use a pencil or pen."
+  },
+  {
+    "objectID": "how-to-use.html#fork-to-your-github-account",
+    "href": "how-to-use.html#fork-to-your-github-account",
+    "title": "How to use this booklet",
+    "section": "Fork to your GitHub account",
+    "text": "Fork to your GitHub account\nWe’ve built this booklet collaboratively with Quarto and GitHub. This is a workflow that’s super powerful for research — that’s where we first learned it too. This booklet is a low-stakes way to practice the Quarto-GitHub workflow if that’s something you’re interested in.\nIn GitHub terminology, “forking” means making a copy that’s still connected to the original (so that you can send updates back and forth). To do this, follow the steps involved in our tutorial: Making shareable documents with Quarto. Specifically, first you’ll fork to your GitHub account. Then, you’ll be able to edit from the browser or follow the instructions to work locally."
   },
   {
     "objectID": "reflect.html#what-are-things-you-know-about-yourself-and-how-you-work",
