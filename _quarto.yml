@@ -6,7 +6,7 @@ book:
   title: Openscapes Reflections Booklet
   subtitle: Open educational resources for the Openscapes Reflections Program
   output-file: "openscapes-reflections-booklet"
-  downloads: [pdf, docx]
+  downloads: [pdf]
   
   page-navigation: true
   site-url: "https://openscapes.github.io/booklet"
@@ -39,7 +39,7 @@ book:
   chapters:
     - href: "index.qmd"
       text: Welcome
-    - workflows.qmd  
+   # - workflows.qmd  
     - how-to-use.qmd
     - href: reflect.qmd
       text: Reflect
