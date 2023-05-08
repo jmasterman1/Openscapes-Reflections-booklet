@@ -2,7 +2,7 @@
 
 Our purpose today is to notice – what works, what doesn’t work? We’ll think about your workflows and how you collaborate.
 
-## What are things you know about yourself and how you work? {.unnumbered}
+## What are things you know about yourself and how you work? 
 ::: {.callout-note appearance="minimal" icon="false"}
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
@@ -59,7 +59,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 :::
 
 
-## What software do you use, and for what purposes?  {.unnumbered}
+## What software do you use, and for what purposes?  
 
 ::: {.callout-tip appearance="minimal" icon="false"}
 
@@ -96,7 +96,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
  
 :::
 
-## What kinds of files do you work with? {.unnumbered}
+## What kinds of files do you work with? 
 
 ::: {.callout-tip appearance="minimal" icon="false"}
 
@@ -133,7 +133,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 :::
 
-## What does your workflow look like? {.unnumbered}
+## What does your workflow look like? 
 
 ::: {.callout-important appearance="minimal" icon="false"}
 
@@ -212,7 +212,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 :::
 
 
-## How do you track tasks for your workflow? {.unnumbered}
+## How do you track tasks for your workflow? 
 
 ::: {.callout-caution appearance="minimal" icon="false"}
 
@@ -250,7 +250,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 :::
 
-## How do you collaborate with colleagues? {.unnumbered}
+## How do you collaborate with colleagues? 
 
 ::: {.callout-caution appearance="minimal" icon="false"}
 
@@ -288,7 +288,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 :::
 
-## What feels good about your workflow? {.unnumbered}
+## What feels good about your workflow? 
 
 ::: {.callout-note appearance="minimal" icon="false"}
 
@@ -326,7 +326,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 :::
 
-## What feels clunky about your workflow? {.unnumbered}
+## What feels clunky about your workflow? 
 
 ::: {.callout-note appearance="minimal" icon="false"}
 
