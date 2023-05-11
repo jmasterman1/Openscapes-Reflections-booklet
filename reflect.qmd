@@ -1,9 +1,53 @@
----
-title: "Week 1: Reflect"
----
+# Reflect
 
-::: callout-note
-## What do you know about yourself and how you work?
+Our purpose today is to notice – what works, what doesn’t work? We’ll think about your workflows and how you collaborate.
+
+## What are things you know about yourself and how you work? 
+::: {.callout-note appearance="minimal" icon="false"}
+<!---p.1--->
+*What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -14,19 +58,136 @@ title: "Week 1: Reflect"
  
 :::
 
-**Next prompt, compare no text box**
+
+## What software do you use, and for what purposes?  
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.2--->
+
+*Think across your different workflows. Where do you do your writing? How do you manage citations or versions? Do you take screenshots? If you analyze data or images, what do you use?*
+
+
+  
+
+ 
+
+  
 
  
 
  
 
  
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+:::
+
+## What kinds of files do you work with? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.2--->
+
+*How do you organize them? Do you download and save in folders? How do you find them?*
+
+  
+
+ 
+
+  
 
  
 
  
 
  
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+:::
+
+## What does your workflow look like? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.3--->
+
+*You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
+
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+  
+  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
 
  
 
@@ -34,14 +195,258 @@ title: "Week 1: Reflect"
 
  
  
- 
-
- **Next prompt, compare no text box**
 
  
 
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+:::
+
+
+## How do you track tasks for your workflow? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.4--->
+
+*Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+
+:::
+
+## How do you collaborate with colleagues? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.4--->
+
+*Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+
+:::
+
+## What feels good about your workflow? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.5--->
+
+*There are good things about your workflow. What feels good to you?*
+
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+:::
+
+## What feels clunky about your workflow? 
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+
+<!---p.5--->
+
+*Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
+
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+:::
+
+
+## What is top-of-mind for you?
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+<!---p.6--->
+
+*What might be a focus for the next few weeks?*
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+  
+  
  
 
  
 
  
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+:::

@@ -1,7 +1,6 @@
 # Defining our workflows {.unnumbered}
 
-Defining a workflow that resonates with you and all aspects of your work and collaboration with others is a process. One we are looking forward to working on together!
-
-We broadly define workflows as the tools and practices that we use to complete, collaborate on, and share our work. It can include how and when you like to send emails or the structure of documents you share with your coworkers, but most importantly a workflow is defined by what works and does not **for** **you**!
+We broadly define workflows as the tools, habits, and practices that we use to complete, collaborate on, and share our work. It can include how and when you like to send emails or the structure of documents you share with your coworkers. Your workflow will evolve with software and collaborators, and defining it can be a process. The most important thing about your workflow is that it works for you!
 
 In our first week together we will share examples and spend time defining our workflows. Together we will reflect on where we are now and map out incremental and impactful ways to design a workflow that most benefits you. You can find the welcome slides and resources [here](https://docs.google.com/presentation/d/1pCeddsph51ySX89z0DmIsZ_I40c4loO8bzTXOsf_9To/edit?usp=sharing).
+
