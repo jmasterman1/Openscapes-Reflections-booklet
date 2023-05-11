@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://openscapes.github.io/booklet/index.html</loc>
-    <lastmod>2023-05-08T23:45:49.247Z</lastmod>
+    <lastmod>2023-05-11T13:23:59.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openscapes.github.io/booklet/workflows.html</loc>
+    <lastmod>2023-05-11T13:23:59.675Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/booklet/how-to-use.html</loc>
-    <lastmod>2023-05-08T23:45:49.247Z</lastmod>
+    <lastmod>2023-05-11T13:23:59.676Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/booklet/reflect.html</loc>
-    <lastmod>2023-05-08T23:45:49.248Z</lastmod>
+    <lastmod>2023-05-11T13:23:59.677Z</lastmod>
   </url>
   <url>
     <loc>https://openscapes.github.io/booklet/openscapes-reflections-booklet.pdf</loc>
-    <lastmod>2023-05-08T23:45:49.138Z</lastmod>
+    <lastmod>2023-05-11T13:23:59.598Z</lastmod>
   </url>
 </urlset>
