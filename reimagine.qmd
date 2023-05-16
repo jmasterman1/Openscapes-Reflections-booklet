@@ -3,13 +3,13 @@
 Our purpose today is to spot things that could help your workflow. The ideas is to reuse what works (for you and others), and ease off what doesn’t work
 
 
-## Revisit what was top-of-mind for you last week. 
+## What resonates for you from last week?
 
 ::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.1--->
 
-*What is still resonating, what else has emerged? What patterns, if any, are coming up for you?*
+*Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
 
 
   
@@ -122,7 +122,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 <!---p.2--->
 
-*What is something you’d like to learn or reuse from what you’ve seen?*
+*What is something you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
 
   
 

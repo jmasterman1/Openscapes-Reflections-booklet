@@ -43,8 +43,8 @@ book:
     - how-to-use.qmd
     - href: reflect.qmd
       text: Reflect
-    # - href: "reimagine.qmd"
-    #   text: Remagine
+    - href: "reimagine.qmd"
+      text: Remagine
     # - href: "goals.qmd"
     #   text: Goal-setting
     # - closing.qmd
