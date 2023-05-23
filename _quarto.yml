@@ -37,16 +37,16 @@ book:
     background: "#f0c2a3"
 
   chapters:
-    - href: "index.qmd"
+    - href: index.qmd
       text: Welcome
     - workflows.qmd  
     - how-to-use.qmd
     - href: reflect.qmd
       text: Reflect
-    - href: "reimagine.qmd"
+    - href: reimagine.qmd
       text: Remagine
-    # - href: "goals.qmd"
-    #   text: Goal-setting
+    - href: goals.qmd
+      text: Goal-setting
     # - closing.qmd
       
 format:
