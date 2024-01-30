@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-**Openscapes Reflections is an open data science coaching program for researchers and those who support research**. Reflections is a 3-week program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. From May 9-26 2023, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.
+**Openscapes Reflections is an open data science coaching program for researchers and those who support research**. Reflections is a 3-week program (1 hour/week) modeled from professional leadership coaching, skills increasingly core to the Openscapes approach. <!--- From May 9-26 2023,---> Running in May each year, Reflections is a light-weight way to reflect on your workflows and make goals going into summer.
 
 We designed Reflections to be rewarding for people who haven't been part of Openscapes initiatives so far, as well as returning folks who want some accountability and space to reflect on their workflows and plan how open data science practices can fuel institutional culture change. We wanted to create a space for us all to get a little less stuck in our daily workflows (folders full of files with names like "Report_with_figuresFINAL_v2.doc" anyone?) so we can redirect our energy to the part of our work that we care about, connected to our values for climate change and social justice. If this sounds enticing to you, we hope you'll join us.
 
@@ -21,7 +21,7 @@ We know that **making space to talk about workflows** is so important for teams 
 ## Program Details
 ***Please note: we will update this information in early 2024 for the Reflections Program in Spring 2024***
 
-Reflections will run from **May 9-26 2023 (1 hour/week)**. Through weekly prompts and community huddles, you'll have opportunities to reflect on your own time or together in a way we hope leaves you feeling intentional and empowered.
+Reflections will run for 3 weeks in May 2024 for 1 hour each week<!--- from **May 9-26 2023 (1 hour/week)**--->. Through weekly prompts and community huddles, you'll have opportunities to reflect on your own time or together in a way we hope leaves you feeling intentional and empowered.
 
 -   **Tuesdays**: Reflection prompts received via email
 -   **Thursdays**: Community Huddle with the Openscapes team and other participants (Optional, via Zoom at 12pm EDT)
