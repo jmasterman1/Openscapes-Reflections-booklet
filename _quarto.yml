@@ -4,7 +4,7 @@ project:
 
 book:
   title: Openscapes Reflections Booklet
-  subtitle: Open educational resources for the Openscapes Reflections Program
+  subtitle: Information and open resources for the Openscapes Reflections Program
   output-file: "openscapes-reflections-booklet"
   downloads: [pdf]
   
