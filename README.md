@@ -6,4 +6,4 @@ Openscapes Reflections Program, modeled after leadership coaching, offers struct
 
 Learn more about Openscapes at <https://openscapes.org>.
 
-We're using `quarto publish` to publish this booklet.
+We're using `quarto publish` to publish this booklet. Detailed instructions here: <https://openscapes.github.io/approach-guide/reflections/#quarto-publish-the-booklet>
