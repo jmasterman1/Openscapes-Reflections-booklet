@@ -59,129 +59,14 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 :::
 
 
-## What software do you use, and for what purposes?  
+## What software and kinds of files do you work with, and for what purposes?  
 
 ::: {.callout-note appearance="minimal" icon="false"}
 
 <!---p.2--->
 
-*Think across your different workflows. Where do you do your writing? How do you manage citations or versions? Do you take screenshots? If you analyze data or images, what do you use?*
+*Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-:::
-
-## What kinds of files do you work with? 
-
-::: {.callout-note appearance="minimal" icon="false"}
-
-<!---p.2--->
-
-*How do you organize them? Do you download and save in folders? How do you find them?*
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-:::
-
-## What does your workflow look like? 
-
-::: {.callout-note appearance="minimal" icon="false"}
-
-<!---p.3--->
-
-*You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
-
-
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
 
   
 
@@ -218,7 +103,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 <!---p.4--->
 
-*Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
+*You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
   
 
