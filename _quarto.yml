@@ -5,6 +5,7 @@ project:
 book:
   title: Openscapes Reflections Booklet
   subtitle: Information and open resources for the Openscapes Reflections Program
+  date: last-modified
   output-file: "openscapes-reflections-booklet"
   downloads: [pdf]
   
