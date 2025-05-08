@@ -7,8 +7,14 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
+I do like working with others, but when clear roles or responsibilities are defined. Deadlines are necessary for me. I work well in a dedicated space. 
+Meetings (one or two) help me structure my day, I tend to be good at completing things in the time I have, or before/immediatly following a meeting.
+Switching between a few tasks within a day does help me keep engaged.
+I am comfortable speaking up in 'new spaces'. I am comfortable asking clarifying questions, sometimes perhaps to my detriment. 
+I work best with noise cancelling headphones on, sometimes background noise is helpful, sometimes it is not. I tend to get into a good groove in the early afternoon. 
+If I have email open I have a hard time sticking to a single task -- I need to devote time to email, and then devote time to other tasks when I am not lookikng at email. 
 
-
+Please forgive my poor spelling!!!
  
 
  
@@ -68,7 +74,19 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
 
-  
+I use google drive primarily for notes and file management. Versions are typically overwritten in the same google doc, unless we are resusing a resource for a different project or year, in which case I will make and rename a copy. 
+I use Monday.com for task management but with varied success. It is not really used collaborativly yet so it is not used to its greatest bennefit yet. It would be nice if others could task me with thigns there, or if they could give updates there rather than in all the places perhaps. 
+For certain projects within other teams, we have used GitHub projects which I do like. 
+A challenge is that different projects and teams use different softwears so I am constantly switching and also haveing to give updates across platforms on occasion. 
+
+I use outlook for emails, but I would welcome better systems/approaches to manage email overall. 
+
+I do use R studio, but only for tasks that I can code on and am starting from a very begining place there. I have also used GitHub but only in the context of workshops/repositories others have created that I am contributing to, so I try to follow their setup. 
+I am hoping to learn more about Power Automate, which will require more information being shared in OneDrive/Sharepoint. 
+
+I also work with data from various other sources, and generally migrate that data into excel sheets that live in Sharepoint or Google drive, but there is little consistency there. (eg. Jotform, Zoom, Cvent, ext) 
+
+
 
  
 
@@ -105,10 +123,19 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
-  
+  I am trying to use Monday.com, but there are so many tasks that often things will get lost in the shuffle, and it can be hard to prioritize or not get side tracked with checking off easy tasks, and putting more time consuming tasks on the back burner. This has been a challenge for me with other tasks managers in the past as well. 
 
+My weeks are mostly structured around the meetings I have that week, but the open work time tends to be quite unstructured. I tend to bop from task to task depending on what floats to the surface of my inbox or monday.com. I am admittedly more reactive than I would like to be.
+
+Blocking worktime for a specific tasks in my calendar typically has not worked for me. I tend to still get side tracked by what task comes across the plate first even with the calendar block. 
+
+I write a lot of lists on paper. even if I dont look back at them all the time, writing it down allows me to put a task aside that pops into my head while I focus on others. I work to ensure all tasks I write down are captured in Monday or elsewhere so that they do not get lost. 
+
+Sometimes just writing down what I am working on in a moment is helpful to keep me on track, and if I get side tracked by an email or slack message, I know what I need to come back to. 
  
+For a specific project, I like to have a few big docuemnts wehre I dump everything. 1) a communications materials document 2) a planning document shared externally with other folks working on the project (eg workshop instructors) that would contain things like a timeline and tasks 3) running meeting notes 4) Internal notes on the project where I dump any bit of relevant information that may not fit elsewhere. I also create documents to draft and save things like email drafts ext. All the tasks associtated with a project are added to a task manager such as Monday at the beginning, and additional tasks are added, and deadlines refined as the project moves forward. 
 
+Since most of my "deliverables" are events, there are some items that cannot be ignored or the event does not happen (eg booking hotels, ext). Other items like reporting, though it can be a fun tasks, tend to be put on the backburner once the event has already happened. 
   
 
  
@@ -139,9 +166,13 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
   
+1) External Collaborators (eg workshop instructors) I primarily collaborate via email and google docs. Regular meetings and meeting notes are helpful, setting expectations and deliverables early, and checking in regularly. 
 
- 
+2) E&O Team: Currently this seems to be somewhat frustrated. I do no think we have refined the best way for us to collaborate. We seem partway in on Monday, partway in on Sharepoint and partway in on google drive. It is difficult to understand what the teams priorities are on a day to day or month to month basis. The work that we do is so varied, understanding who is responsible for what, and identifying tasks seems complicated. I tend to report on my projects, but for many of them I am not collaborating with my team. We seem to get caught up in frutstrations that could be adressed with a written policy or proceedure that could be pointed to, or a reviewed and revised SOP for existing tasks. Understanding when we have met a goal or deliverable, being able to close out items or projects will be useful. 
 
+3) Other CUAHSI teams focused around a particular project (Eg. Opps meeting) These seem to work really well. The primary person responsible is clearly defined, and reglar meetings tasks individuals with specific tasks to complete and report back on. Tasks and workflows are tracked in GitHub or presumably by that primary point of contact. There is a clear understanding when a task has been completed, and if there are recurring tasks, it is clear who is responsible for reaching back out to re-task individuals (eg. the community engagement dataset). 
+
+4) SI I dont want to go there. 
   
 
  
@@ -176,6 +207,12 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
+Things are getting done, so something must be working! 
+I think my tendancy to think through all the things that will disrupt the process, all the questions we would be asked, or the edge cases is often helpful, though sometimes hindering. 
+Google drive is extreamly helpful, and having all the materials in one place for an individual project. 
+Projects with the data team are going really well, I like how tasks are managed using github, and how the responsibilites can be clearly defined and revised during regular meetings. 
+Meeting weekly with workshop instructors has been helpful. 
+Using a task manager with SI has been helpful, for accountability if nothing else.
 
   
 
@@ -225,9 +262,22 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
+Outlook/email management integration with task management. How can I improve the speed at which I reply to emails without getting totally sidetracked. How can I continue to communicate more clearly so that I get fewer questions via email, or I am better able to parse the ask of an email. 
 
-  
+  Payment processes. The actual internal processes are being improved so it is too soon to say on that front. However the external communications for travelers could be automated or templated to a greater extent in such a way that we have greater consistency. Moving away from the error prone excel file to request payments would be fantastic. Having to merge files and convert to PDFs ext for reimbursment. 
 
+Standard communications 
+- post webinar thank you notes and reporting
+- Post workshop thank yous and reporting 
+- Workshop reporting and feedback reporting generally 
+- Automating pre-meeting reminder emails -- and/or post meeting follow up emails. or at least pinging self to do so. 
+
+Completion certificates for workshops 
+
+Youtube Video Uploads, how can we automate for CVU? Can we make this easier for webinars as well?
+
+Making feedback useable by sharing more broadly
+Sharing participant information in a standardized consistent way.
  
 
   
@@ -271,9 +321,17 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
+  What I would want to focus on:
+1) Webinar next week, how can we create a post webinar feedback report using the feedback we gather, adn general metrics about the webinar itself
+2) Standard registration and feedback questions and proceedures 
+3) Operations improvements support -- what needs to be added to the infostream. 
 
- 
+What is top of mind 
+ - Summer Insitute
+- SFS Meeting 
+- Changing role and additional responsibilities in the comming weeks 
+- August Workshop
+- Payments processing 
 
   
 
